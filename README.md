@@ -3,7 +3,8 @@ Welcome to CricPlay, where the thrill of cricket meets the excitement of a quick
 
 
 ##  Introduction
-CricPlay is a JavaScript-based cricket game that puts you in the virtual cricket field. Make strategic decisions by choosing between bat, ball, and wicket, and face off against the computer in a game of chance and skill. Will you score a six, take a wicket, or defend your stumps with a solid defense?
+CricPlay is a lightweight and entertaining JavaScript-based cricket game that brings the spirit of cricket to your fingertips. Experience the excitement of the game by making strategic choices - whether to bat, ball, or take a crucial wicket. The computer responds with its move, and the result unfolds on the screen. Simple yet engaging, CricPlay is designed for quick gameplay, making it an ideal choice for cricket enthusiasts and casual gamers alike. Immerse yourself in the world of cricket with this interactive and fun gaming experience!
+
 Whether you're a cricket enthusiast or just looking for a fun and casual game, CricPlay offers a delightful way to enjoy the essence of cricket in a few clicks. The game is designed to be easy to play, yet challenging enough to keep you engaged.
 Get ready to experience the joy of cricket through a unique and interactive gaming interface. Lace up your virtual cricket shoes, grab your virtual bat, and let the games begin!
 
