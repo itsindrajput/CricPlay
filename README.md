@@ -3,8 +3,8 @@ Welcome to cricplay, where the thrill of cricket meets the excitement of a quick
 
 Explore These Live Links Of My crickplay Webapp:
 
-- 🌐 [https://itsindrajput.github.io/crickplay](https://itsindrajput.github.io/crickplay)
-- 🌐 [https://ilovechess.netlify.app/](https://crickplay.netlify.app/)
+- 🌐 [https://itsindrajput.github.io/crickplay](https://itsindrajput.github.io/crickplay/)
+- 🌐 [https://crickplay.netlify.app/](https://crickplay.netlify.app/)
 
 ##  Introduction 🚀
 crickplay is a lightweight and entertaining JavaScript-based cricket game that brings the spirit of cricket to your fingertips. Experience the excitement of the game by making strategic choices - whether to bat, ball, or take a crucial wicket. The computer responds with its move, and the result unfolds on the screen. Simple yet engaging, crickplay is designed for quick gameplay, making it an ideal choice for cricket enthusiasts and casual gamers alike. Immerse yourself in the world of cricket with this interactive and fun gaming experience!
@@ -40,3 +40,8 @@ Get ready to experience the joy of cricket through a unique and interactive gami
 ## Contributing 🤝
 
 If you have suggestions, bug reports, or want to contribute to the project, feel free to open an issue or create a pull request. Contributions are welcome! 🎉
+
+## Interactive Showcase 🎨
+
+Curious about how we brought this amazing demo to life? Look no further! 
+![crickplay](https://github.com/itsindrajput/crickplay/assets/70815899/bdcad63f-ed18-4afa-a95b-bd94a4321f31)
