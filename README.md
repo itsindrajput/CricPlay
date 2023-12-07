@@ -16,10 +16,10 @@ Get ready to experience the joy of cricket through a unique and interactive gami
 
 ### How to Play: 🤾‍♂️
 
-- You have three choices: **Bat**, **Ball**, and **Wicket**.
+- You have three choices: **Bat** 🏏, **Ball** ⚾, and **Wicket** ☝️.
 - Click on the corresponding button to make your choice.
 
-### Winning Scenarios:
+### Winning Scenarios: 🎉
 
 1. If you choose **Bat**:
    - If the computer also chooses **Bat**, it's a **Tie**.
@@ -36,12 +36,12 @@ Get ready to experience the joy of cricket through a unique and interactive gami
    - If the computer chooses **Bat**, you **Win**!
    - If the computer chooses **Ball**, the computer **Wins**.
 
-### Results:
+### Results: 🎊
 
 - After each round, the game will display the result.
 - Your goal is to have more wins than the computer.
 
-### Additional Actions:
+### Additional Actions: 🌟
 
 - Use the **Reset** button to clear the score.
 - Click the **Info** button for a quick reminder of the game rules.
@@ -77,7 +77,8 @@ If you have suggestions, bug reports, or want to contribute to the project, feel
 
 ## Interactive Showcase 🎨
 
-Enjoy the game and have fun playing CrickPlay!
 Curious about how we brought this amazing demo to life? Look no further!  
+
 ![crickplay](https://github.com/itsindrajput/crickplay/assets/70815899/97588401-16bc-494b-8bfc-db14cc94ed6b)
 
+Enjoy the game and have fun playing CrickPlay!
