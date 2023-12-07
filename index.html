@@ -78,18 +78,18 @@ resetScore();">Reset</button>
       }
       else if (computerMove === 'Ball'){
         score.win++;
-       return 'You Won✌';
+       return 'You Won🎉';
       }
       else if(computerMove === 'Wicket'){
         score.lost++;
-        return `Computer Won💻 `;
+        return `Computer Won🖥️ `;
       }
     }
 
     else if(userMove === 'Ball'){
       if (computerMove === 'Wicket'){
         score.win++;
-        return `You Won✌`;
+        return `You Won🎉`;
       }
       else if(computerMove === 'Ball'){
         score.tie++;
@@ -97,14 +97,14 @@ resetScore();">Reset</button>
       }
       else if(computerMove === 'Bat'){
         score.lost++;
-        return `Computer Won💻 `;
+        return `Computer Won🖥️ `;
       }
     }
 
     else if(userMove === 'Wicket'){
       if (computerMove === 'Bat'){
        score.win++;
-       return `You Won✌`;
+       return `You Won🎉`;
       }
       else if(computerMove === 'Wicket'){
        score.tie++;
@@ -112,7 +112,7 @@ resetScore();">Reset</button>
       }
       else if(computerMove === 'Ball'){
        score.lost++;
-       return  `Computer Won💻 `;
+       return  `Computer Won🖥️ `;
       }
     }
   }
@@ -120,10 +120,10 @@ resetScore();">Reset</button>
 function showResult(userMove, computerMove, resultMsg){
 localStorage.setItem('Score', JSON.stringify(score));
 
-document.querySelector('#user-move').innerText = `You have chosen a ${userMove}.`;
-document.querySelector('#computer-move').innerText = `Computer choice is a ${computerMove}.`;
-document.querySelector('#result').innerText = `And the Result:  ${resultMsg}`;
-document.querySelector('#score').innerText = `Total Score: ${score.displayScore()}`;
+document.querySelector('#user-move').innerText = `👤 You have chosen a ${userMove}.`;
+document.querySelector('#computer-move').innerText = `🤖 Computer choice is a ${computerMove}.`;
+document.querySelector('#result').innerText = `🏆 Result:  ${resultMsg}`;
+document.querySelector('#score').innerText = `🎯 Score: ${score.displayScore()}`;
 
 // alert(`You have chosen a ${userMove}. Computer choice is a ${computerMove}. 
 
