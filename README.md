@@ -7,12 +7,12 @@ Explore These Live Links Of My crickplay Webapp:
 - 🌐 [https://crickplay.netlify.app/](https://crickplay.netlify.app/)
 
 ##  Introduction 🚀
-crickplay is a lightweight and entertaining JavaScript-based cricket game that brings the spirit of cricket to your fingertips. Experience the excitement of the game by making strategic choices - whether to bat, ball, or take a crucial wicket. The computer responds with its move, and the result unfolds on the screen. Simple yet engaging, crickplay is designed for quick gameplay, making it an ideal choice for cricket enthusiasts and casual gamers alike. Immerse yourself in the world of cricket with this interactive and fun gaming experience!
+Crickplay is a lightweight and entertaining JavaScript-based cricket game that brings the spirit of cricket to your fingertips. Experience the excitement of the game by making strategic choices - whether to bat, ball, or take a crucial wicket. The computer responds with its move, and the result unfolds on the screen. Simple yet engaging, crickplay is designed for quick gameplay, making it an ideal choice for cricket enthusiasts and casual gamers alike. Immerse yourself in the world of cricket with this interactive and fun gaming experience!
 
 Whether you're a cricket enthusiast or just looking for a fun and casual game, crickplay offers a delightful way to enjoy the essence of cricket in a few clicks. The game is designed to be easy to play, yet challenging enough to keep you engaged.
 Get ready to experience the joy of cricket through a unique and interactive gaming interface. Lace up your virtual cricket shoes, grab your virtual bat, and let the games begin!
 
-## Game Rules
+## Game Rules 🕹️
 
 ### How to Play: 🤾‍♂️
 
@@ -36,7 +36,7 @@ Get ready to experience the joy of cricket through a unique and interactive gami
    - If the computer chooses **Bat**, you **Win**!
    - If the computer chooses **Ball**, the computer **Wins**.
 
-### Results: 🎊
+### Results: 🎯
 
 - After each round, the game will display the result.
 - Your goal is to have more wins than the computer.
@@ -81,4 +81,4 @@ Curious about how we brought this amazing demo to life? Look no further!
 
 ![crickplay](https://github.com/itsindrajput/crickplay/assets/70815899/97588401-16bc-494b-8bfc-db14cc94ed6b)
 
-Enjoy the game and have fun playing CrickPlay!
+## Enjoy the game and have fun playing CrickPlay! 🎊
