@@ -1,6 +1,10 @@
 # crickplay 🏏
 Welcome to cricplay, where the thrill of cricket meets the excitement of a quick and simple gaming experience!🎮 This game allows users to make a choice between bat, ball, and wicket, and the computer will randomly make its choice. The result of the match will be displayed on the screen, indicating whether the user won, lost, or it's a tie.
 
+Explore These Live Links Of My crickplay Webapp:
+
+- 🌐 [https://itsindrajput.github.io/crickplay](https://itsindrajput.github.io/crickplay)
+- 🌐 [https://ilovechess.netlify.app/](https://crickplay.netlify.app/)
 
 ##  Introduction 🚀
 crickplay is a lightweight and entertaining JavaScript-based cricket game that brings the spirit of cricket to your fingertips. Experience the excitement of the game by making strategic choices - whether to bat, ball, or take a crucial wicket. The computer responds with its move, and the result unfolds on the screen. Simple yet engaging, crickplay is designed for quick gameplay, making it an ideal choice for cricket enthusiasts and casual gamers alike. Immerse yourself in the world of cricket with this interactive and fun gaming experience!
