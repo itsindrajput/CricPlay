@@ -12,6 +12,40 @@ crickplay is a lightweight and entertaining JavaScript-based cricket game that b
 Whether you're a cricket enthusiast or just looking for a fun and casual game, crickplay offers a delightful way to enjoy the essence of cricket in a few clicks. The game is designed to be easy to play, yet challenging enough to keep you engaged.
 Get ready to experience the joy of cricket through a unique and interactive gaming interface. Lace up your virtual cricket shoes, grab your virtual bat, and let the games begin!
 
+## Game Rules
+
+### How to Play: 🤾‍♂️
+
+- You have three choices: **Bat**, **Ball**, and **Wicket**.
+- Click on the corresponding button to make your choice.
+
+### Winning Scenarios:
+
+1. If you choose **Bat**:
+   - If the computer also chooses **Bat**, it's a **Tie**.
+   - If the computer chooses **Ball**, you **Win**!
+   - If the computer chooses **Wicket**, you **Lose**.
+
+2. If you choose **Ball**:
+   - If the computer also chooses **Ball**, it's a **Tie**.
+   - If the computer chooses **Bat**, the computer **Wins**.
+   - If the computer chooses **Wicket**, you **Win**!
+
+3. If you choose **Wicket**:
+   - If the computer also chooses **Wicket**, it's a **Tie**.
+   - If the computer chooses **Bat**, you **Win**!
+   - If the computer chooses **Ball**, the computer **Wins**.
+
+### Results:
+
+- After each round, the game will display the result.
+- Your goal is to have more wins than the computer.
+
+### Additional Actions:
+
+- Use the **Reset** button to clear the score.
+- Click the **Info** button for a quick reminder of the game rules.
+
 ## Getting Started 🎮
 
 1. Clone the repository to your local machine:
@@ -43,5 +77,7 @@ If you have suggestions, bug reports, or want to contribute to the project, feel
 
 ## Interactive Showcase 🎨
 
-Curious about how we brought this amazing demo to life? Look no further! 
-![crickplay](https://github.com/itsindrajput/crickplay/assets/70815899/bdcad63f-ed18-4afa-a95b-bd94a4321f31)
+Enjoy the game and have fun playing CrickPlay!
+Curious about how we brought this amazing demo to life? Look no further!  
+![crickplay](https://github.com/itsindrajput/crickplay/assets/70815899/97588401-16bc-494b-8bfc-db14cc94ed6b)
+
